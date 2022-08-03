@@ -24,7 +24,7 @@ The installation of Oxylabs Proxy Manager is very easy. Open Chrome and head ove
 ![search results](images/Search_Results.png)
 
 From the search results, click the extension name. 
-Alternatively, simply click this [link](https://chrome.google.com/webstore/detail/oxylabs-proxy-manager/infajoaodhhdogakhloedbppcbeajhoo) to open the Oxylabs Proxy Manager extension page.
+Alternatively, simply click this [link](https://oxy.yt/ArJV) to open the Oxylabs Proxy Manager extension page.
 
 ![installing](images/InstallProxyManger.png)
 
