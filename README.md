@@ -17,7 +17,7 @@ Proxies are computers that act as an intermediary between you and the website th
 There are often cases when there is a need to switch between proxies or even turn these off. This guide will explain how to do this using the Chrome extension by Oxylabs -- Proxy Manager. 
 
 ## Why this Extension 
-The Oxylabs Proxy Manager allows you to switch proxies very easily. It takes only takes two clicks to connect to a proxy. It also takes on two clicks to change proxies. 
+The [Oxylabs Proxy Manager](https://oxylabs.io/products/chrome-proxy-extension) allows you to switch proxies very easily. It takes only takes two clicks to connect to a proxy. It also takes on two clicks to change proxies. 
 The best part about this extension is that this extension can be used to change proxy, irrespective of the source. You can use this extension with any proxy. All you need to know is the proxy IP, port, and authentication information, if applicable. It is not exclusive to Oxylabs proxies. 
 If you are using the Oxylabs proxy server, it will show you an additional feature to change proxy by refreshing session. 
 
