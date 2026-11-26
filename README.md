@@ -1,7 +1,7 @@
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=proxy-chrome-extension-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=proxy-chrome-extension&utm_campaign=banner&groupid=877)
 
-<a href="https://oxylabs.io"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
+<a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=proxy-chrome-extension&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
 <a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
@@ -23,7 +23,7 @@ Proxies are computers that act as an intermediary between you and the website th
 There are often cases when there is a need to switch between proxies or even turn these off. This guide will explain how to do this using the Chrome extension by Oxylabs -- Proxy Manager. 
 
 ## Why this Extension 
-The [Oxylabs Proxy Manager](https://oxylabs.io/products/chrome-proxy-extension) allows you to switch proxies very easily. It takes only takes two clicks to connect to a proxy. It also takes on two clicks to change proxies. 
+The [Oxylabs Proxy Manager](https://oxylabs.io/products/chrome-proxy-extension?utm_source=github&utm_medium=referral&utm_content=proxy-chrome-extension&groupid=877) allows you to switch proxies very easily. It takes only takes two clicks to connect to a proxy. It also takes on two clicks to change proxies. 
 The best part about this extension is that this extension can be used to change proxy, irrespective of the source. You can use this extension with any proxy. All you need to know is the proxy IP, port, and authentication information, if applicable. It is not exclusive to Oxylabs proxies. 
 If you are using the Oxylabs proxy server, it will show you an additional feature to change proxy by refreshing session. 
 
